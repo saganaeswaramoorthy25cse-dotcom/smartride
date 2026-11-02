@@ -1,0 +1,27 @@
+# Compiled Java class files
+*.class
+
+# Build output
+*.war
+*.jar
+!web/WEB-INF/lib/*.jar
+
+# SQLite database (contains data, not tracked)
+*.db
+
+# IDE files
+.idea/
+*.iml
+.eclipse/
+.settings/
+.classpath
+.project
+nbproject/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
