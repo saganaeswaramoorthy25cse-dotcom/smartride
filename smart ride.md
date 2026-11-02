@@ -1,4 +1,4 @@
-# 🚌 SMARTRIDE — Intelligent Campus Transport Management System
+# 🚌 KALVI COLLEGE TRANSPORT MANAGEMENT SYSTEM
 
 A **Java Servlet + JSP + SQLite** web application for managing campus bus transport, built as a CSE Mini-Project.
 
